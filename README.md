@@ -12,13 +12,16 @@ CreDebt is an offline-first Android application designed to help users manage pe
 
 ## Screenshots
 
-<div align="center">
-  <img src="screenshots/Screenshot_20260107-002224.png" width="200" alt="Home Screen"/>
-  <img src="screenshots/Screenshot_20260107-002317.png" width="200" alt="Transaction List"/>
-  <img src="screenshots/Screenshot_20260107-002244.png" width="200" alt="User Detail Screen"/>
-  <img src="screenshots/Screenshot_20260107-002307.png" width="200" alt="Add Transaction"/>
-  <img src="screenshots/Screenshot_20260107-002312.png" width="200" alt="Currency Selection"/>
-</div>
+![Home Screen](screenshots/Screenshot_20260107-002224.png)
+
+![Transaction List](screenshots/Screenshot_20260107-002317.png)
+
+![User Detail Screen](screenshots/Screenshot_20260107-002244.png)
+
+![Add Transaction](screenshots/Screenshot_20260107-002307.png)
+
+![Currency Selection](screenshots/Screenshot_20260107-002312.png)
+
 
 ## Features
 
